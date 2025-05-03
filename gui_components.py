@@ -271,7 +271,7 @@ class GUIComponents:
         # First line: compliance text
         compliance_label = ctk.CTkLabel(
             footer_text_frame,
-            text="ITCC 42 SERVICE LEARNING PROGRAM\nDEVELOPED BY:\nIRREG BOIS",
+            text="",
             font=("Roboto", 12, "bold"),
             text_color="#FFFFFF",
             justify="left"
